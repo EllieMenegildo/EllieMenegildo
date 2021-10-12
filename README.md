@@ -2,8 +2,8 @@
 
 - 🔭 Estou trabalhando com full stack
 - 🌱 Estudando javascript 
-- 🤔 Pretendo aprender mais sobre ciber segurança
-- 😄 Pronomes: Ela/dela
+- 🤔 Pretendo aprender mais sobre cibersegurança
+- 😄 Pronomes: Pode usar qualquer um 
 - ⚡ Procurando vaga de jovem aprendiz ⚡
 
 <div>
