@@ -4,7 +4,7 @@
 - 🌱 Estudando javascript 
 - 🤔 Pretendo aprender mais sobre cibersegurança
 - 😄 Pronomes: Pode usar qualquer um 
-- ⚡ Procurando vaga de jovem aprendiz ⚡
+- ⚡ #OpenToWork ⚡
 
 <div>
   <a href="https://github.com/EllieMenegildo">
