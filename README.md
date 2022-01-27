@@ -1,6 +1,6 @@
 ### Olá!! Você pode me chamar de Ellie!
 
-- 🔭 Estou trabalhando com full stack
+- 🔭 Estou trabalhando com front-end
 - 🌱 Estudando javascript 
 - 🤔 Pretendo aprender mais sobre cibersegurança
 - 😄 Pronomes: Pode usar qualquer um 
