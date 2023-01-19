@@ -1,9 +1,8 @@
 ### Olá!! Você pode me chamar de Ellie!
 
-- 🔭 Estou trabalhando com front-end
-- 🌱 Estudando javascript 
-- 🤔 Pretendo aprender mais sobre cibersegurança
-- 😄 Pronomes: Pode usar qualquer um 
+- 💻 Estou trabalhando com Redes e suporte
+- 🔒 Estudando Redes e cybersecurity
+- 🔎 Pretendo aprender mais sobre defesa cibernética
 - ⚡ #OpenToWork ⚡
 
 <div>
@@ -11,7 +10,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EllieMenegildo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllieMenegildo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+  <br>
+<div>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
