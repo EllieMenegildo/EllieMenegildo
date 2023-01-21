@@ -20,7 +20,7 @@
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
-<div styke="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=EllieMenegildo&theme=midnight-purple&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   
   <div align="right">
@@ -32,10 +32,12 @@
 
 <br>
 <div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/EllieMenegildo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EllieMenegildo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllieMenegildo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+ </div>
   <br>
 
   
