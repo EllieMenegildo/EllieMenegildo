@@ -23,15 +23,7 @@
 
 <div style="display: inline_block"><br>
   <img align="left" src="https://github-profile-trophy.vercel.app/?username=EllieMenegildo&theme=midnight-purple&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  
-  <div align="right">
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ykobqmtohzbiemmq5ealagq&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=610085&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=21ykobqmtohzbiemmq5ealagq&redirect=true)
-  </div>
-</div>
-
-
-<br>
+ 
 <div align="center">
   <a href="https://github.com/EllieMenegildo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EllieMenegildo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
