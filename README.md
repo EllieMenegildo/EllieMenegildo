@@ -14,7 +14,7 @@
 ### Studying in this moment:
 🔒 - Security
 ➰ - Network
-💻 - Front-end
+💻 - DevOps
 
   
 ### Coming soon:
