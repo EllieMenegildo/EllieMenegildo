@@ -1,42 +1,39 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6109AA&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6109AA&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Danieli+Menegildo;But+you+can+call+me+Ellie+:D;I'm+18+years+old;I'm+from+Brazil;I+study+cybersecurity;And+Front-end+sometimes;I+hope+you+like+my+projects+!;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<H2> Oii, eu sou a Ellie 👋
+ <H2>
+<p> Estudante de cybersecurity, infraestrutura e cloud </p>
 <br>
-
- ### Basic skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp; 
-![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
-
-
-### Studying in this moment:
-🔒 - Security
-➰ - Network
-💻 - DevOps
-
-  
-### Coming soon:
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-
-<div style="display: inline_block"><br>
-  <img align="left" src="https://github-profile-trophy.vercel.app/?username=EllieMenegildo&theme=midnight-purple&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<!-- Linux-->
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<img align="center" alt="Ellie-Tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<a/>
+<!--AWS-->
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<img align="center" alt="Ellie-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<a/>
+<!--GCP-->
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<img align="center" alt="Ellie-GCP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" />
+<a/>
+<!--Ansible-->
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<img align="center" alt="Ellie-Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
+<a/>
+<!--Docker-->
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<img align="center" alt="Ellie-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+<a/>
+<!--Grafana-->
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<img align="center" alt="Ellie-Grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" />
+<a/>
+<!--Python-->
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<img align="center" alt="Ellie-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+<a/>
  
-<div align="center">
-  <a href="https://github.com/EllieMenegildo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EllieMenegildo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllieMenegildo&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-<br>
+<H2>📍Você pode me encontrar aqui:
+<H2> 
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
 
-<div align="center">
-  <a href="https://www.instagram.com/danny_menegildo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/channels/@me/922271104549134336" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/danieli-m-0b29ba207/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:cmp.1a.dmenegildo091@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://codepen.io/Ellie_Menegildo"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
-
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6109AA&height=120&section=footer"/>
